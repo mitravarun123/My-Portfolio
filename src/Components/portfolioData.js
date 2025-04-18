@@ -19,8 +19,8 @@ export const projects = [
       "Built a disease outcome prediction model using scikit-learn with Decision Trees and Logistic Regression on patient data. Deployed it in an interactive app for real-time use by healthcare professionals.",
     tech: ["Python", "scikit-learn", "Flask", "HTML", "CSS"],
     github:
-      "https://github.com/mitravarun123/-Disease-Prediction-System-Using-Machine-Learning",
-    link1: "https://vineethkumar.csre.in",
+      "https://github.com/mitravarun123/Disease-Prediction-using-Machine-Learning-",
+    link1: "",
     src: img1, // Add image if needed
     video: "",
   },
