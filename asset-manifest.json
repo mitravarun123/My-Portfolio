@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/mitravarun123/My-Portfolio/static/css/main.4fbea0b3.css",
-    "main.js": "/mitravarun123/My-Portfolio/static/js/main.69709cc0.js",
-    "static/media/9.jpg": "/mitravarun123/My-Portfolio/static/media/9.7f7d7d4a10ebbd694f71.jpg",
-    "static/media/8.png": "/mitravarun123/My-Portfolio/static/media/8.7e94b918c512e175f0f9.png",
-    "static/media/3.jpg": "/mitravarun123/My-Portfolio/static/media/3.fbb1408fd9c5be0a89e0.jpg",
-    "static/media/4.png": "/mitravarun123/My-Portfolio/static/media/4.fdc838779c11685f6b2c.png",
-    "static/media/11.jpg": "/mitravarun123/My-Portfolio/static/media/11.7e4be1e3c0b8d5821a3e.jpg",
-    "static/media/5.png": "/mitravarun123/My-Portfolio/static/media/5.2f547d07bea72acbfa3c.png",
-    "static/media/1.jpg": "/mitravarun123/My-Portfolio/static/media/1.8a5e143899b4d993bf13.jpg",
-    "static/media/MitraVarunResume.pdf": "/mitravarun123/My-Portfolio/static/media/MitraVarunResume.e3df48f706dde1e87ecd.pdf",
-    "static/media/2.jpg": "/mitravarun123/My-Portfolio/static/media/2.d8ae5b9eebcb10a0aa20.jpg",
-    "static/media/7.jpg": "/mitravarun123/My-Portfolio/static/media/7.1217c1559e1b65d7e0af.jpg",
-    "static/media/12.jpg": "/mitravarun123/My-Portfolio/static/media/12.f62d819b39aa1c8354fc.jpg",
-    "static/media/10.jpg": "/mitravarun123/My-Portfolio/static/media/10.8fcdc2b79ad702e87fec.jpg",
-    "static/media/Databricks-data-platform-logo.png": "/mitravarun123/My-Portfolio/static/media/Databricks-data-platform-logo.f918576759fce48381f1.png",
-    "static/media/6.jpg": "/mitravarun123/My-Portfolio/static/media/6.5e0c9b972d1ab8f0270c.jpg",
-    "static/media/varun.jpg": "/mitravarun123/My-Portfolio/static/media/varun.505fb0a01b782ea020b3.jpg",
-    "static/media/nptel-logo.png": "/mitravarun123/My-Portfolio/static/media/nptel-logo.ea25242275a88a2965a0.png",
-    "index.html": "/mitravarun123/My-Portfolio/index.html",
-    "main.4fbea0b3.css.map": "/mitravarun123/My-Portfolio/static/css/main.4fbea0b3.css.map",
-    "main.69709cc0.js.map": "/mitravarun123/My-Portfolio/static/js/main.69709cc0.js.map"
+    "main.css": "/My-Portfolio/static/css/main.4fbea0b3.css",
+    "main.js": "/My-Portfolio/static/js/main.c0a1f407.js",
+    "static/media/9.jpg": "/My-Portfolio/static/media/9.7f7d7d4a10ebbd694f71.jpg",
+    "static/media/8.png": "/My-Portfolio/static/media/8.7e94b918c512e175f0f9.png",
+    "static/media/3.jpg": "/My-Portfolio/static/media/3.fbb1408fd9c5be0a89e0.jpg",
+    "static/media/4.png": "/My-Portfolio/static/media/4.fdc838779c11685f6b2c.png",
+    "static/media/11.jpg": "/My-Portfolio/static/media/11.7e4be1e3c0b8d5821a3e.jpg",
+    "static/media/5.png": "/My-Portfolio/static/media/5.2f547d07bea72acbfa3c.png",
+    "static/media/1.jpg": "/My-Portfolio/static/media/1.8a5e143899b4d993bf13.jpg",
+    "static/media/MitraVarunResume.pdf": "/My-Portfolio/static/media/MitraVarunResume.e3df48f706dde1e87ecd.pdf",
+    "static/media/2.jpg": "/My-Portfolio/static/media/2.d8ae5b9eebcb10a0aa20.jpg",
+    "static/media/7.jpg": "/My-Portfolio/static/media/7.1217c1559e1b65d7e0af.jpg",
+    "static/media/12.jpg": "/My-Portfolio/static/media/12.f62d819b39aa1c8354fc.jpg",
+    "static/media/10.jpg": "/My-Portfolio/static/media/10.8fcdc2b79ad702e87fec.jpg",
+    "static/media/Databricks-data-platform-logo.png": "/My-Portfolio/static/media/Databricks-data-platform-logo.f918576759fce48381f1.png",
+    "static/media/6.jpg": "/My-Portfolio/static/media/6.5e0c9b972d1ab8f0270c.jpg",
+    "static/media/varun.jpg": "/My-Portfolio/static/media/varun.505fb0a01b782ea020b3.jpg",
+    "static/media/nptel-logo.png": "/My-Portfolio/static/media/nptel-logo.ea25242275a88a2965a0.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.4fbea0b3.css.map": "/My-Portfolio/static/css/main.4fbea0b3.css.map",
+    "main.c0a1f407.js.map": "/My-Portfolio/static/js/main.c0a1f407.js.map"
   },
   "entrypoints": [
     "static/css/main.4fbea0b3.css",
-    "static/js/main.69709cc0.js"
+    "static/js/main.c0a1f407.js"
   ]
 }
