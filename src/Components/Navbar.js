@@ -115,7 +115,7 @@ const Navbar = () => {
             <li>
               <div className=" bottom-6 l flex justify-start space-x-3 px-6">
                 <a
-                  href="https://github.com/vineethkumar12"
+                  href="https://github.com/mitravarun123"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-yellow-500 hover:text-green-500 transition-colors cursor-pointer "
@@ -123,7 +123,7 @@ const Navbar = () => {
                   <FaGithub className="text-2xl" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/vineeth-kumar-6358a2231/"
+                  href="https://www.linkedin.com/in/mitravarun123/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-yellow-500 hover:text-green-500 transition-colors cursor-pointer"
