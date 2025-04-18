@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.4fbea0b3.css",
-    "main.js": "/My-Portfolio/static/js/main.c0a1f407.js",
+    "main.css": "/My-Portfolio/static/css/main.92dd35d4.css",
+    "main.js": "/My-Portfolio/static/js/main.f7fc6e74.js",
     "static/media/9.jpg": "/My-Portfolio/static/media/9.7f7d7d4a10ebbd694f71.jpg",
     "static/media/8.png": "/My-Portfolio/static/media/8.7e94b918c512e175f0f9.png",
     "static/media/3.jpg": "/My-Portfolio/static/media/3.fbb1408fd9c5be0a89e0.jpg",
@@ -19,11 +19,11 @@
     "static/media/varun.jpg": "/My-Portfolio/static/media/varun.505fb0a01b782ea020b3.jpg",
     "static/media/nptel-logo.png": "/My-Portfolio/static/media/nptel-logo.ea25242275a88a2965a0.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.4fbea0b3.css.map": "/My-Portfolio/static/css/main.4fbea0b3.css.map",
-    "main.c0a1f407.js.map": "/My-Portfolio/static/js/main.c0a1f407.js.map"
+    "main.92dd35d4.css.map": "/My-Portfolio/static/css/main.92dd35d4.css.map",
+    "main.f7fc6e74.js.map": "/My-Portfolio/static/js/main.f7fc6e74.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fbea0b3.css",
-    "static/js/main.c0a1f407.js"
+    "static/css/main.92dd35d4.css",
+    "static/js/main.f7fc6e74.js"
   ]
 }
