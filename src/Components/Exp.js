@@ -45,7 +45,7 @@ const experiences = [
 export const Exp = () => {
   return (
     <div
-      id="experience"
+      id="Experience"
       className="bg-gradient-to-b from-gray-800 to-black text-white w-full py-16"
     >
       <div className="max-w-6xl mx-auto px-4">
