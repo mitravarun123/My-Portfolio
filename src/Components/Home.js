@@ -11,7 +11,7 @@ export const Home = () => {
     "Deep Learning Engineer",
     "Data Scientist",
     "Data Analyst",
-    "MLOps Engineer",
+    "MLops Engineer",
   ];
   const [currentSkillIndex, setCurrentSkillIndex] = useState(0);
   const [displayedSkill, setDisplayedSkill] = useState("");
@@ -81,7 +81,7 @@ export const Home = () => {
         >
           <h5 className="whitespace-nowrap">I'm a </h5>
           <AnimatePresence mode="wait">
-            <motion.div className="flex min-h-[1.5em]">
+            <motion.div className="flex ">
               {displayedSkill.split("").map((letter, index) => (
                 <motion.span
                   key={index}
